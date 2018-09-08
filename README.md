@@ -19,7 +19,8 @@ out table receipt:
 
 Usage:
 
-   python table_detect.py\n
+   python table_detect.py
+   
    python table_detect.py --debug (debug arguments to graphical interaction)
    
    
